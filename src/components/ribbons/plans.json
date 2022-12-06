@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_ribbons_plans",
+  "info": {
+    "displayName": "plans"
+  },
+  "options": {},
+  "attributes": {
+    "plans": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::plan.plan"
+    }
+  }
+}
