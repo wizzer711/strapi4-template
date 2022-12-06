@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_ribbons_brands",
+  "info": {
+    "displayName": "brands",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "brands": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.brand"
+    }
+  }
+}

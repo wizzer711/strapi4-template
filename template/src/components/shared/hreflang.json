@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_hreflangs",
+  "info": {
+    "displayName": "hreflang"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    }
+  }
+}

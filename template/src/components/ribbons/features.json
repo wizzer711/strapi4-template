@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_ribbons_features",
+  "info": {
+    "displayName": "features",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "features": {
+      "displayName": "features Normal",
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.features-normal"
+    }
+  }
+}
